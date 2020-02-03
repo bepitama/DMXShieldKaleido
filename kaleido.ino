@@ -1,3 +1,6 @@
+// created by Giuseppe Tamanini
+// licenza CC by-SA
+// 03/02/2020
 // Include le librerie AccelStepper e DMXSerial
 #include <AccelStepper.h>
 #include <DMXSerial.h>
